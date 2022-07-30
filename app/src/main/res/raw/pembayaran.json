@@ -1,0 +1,22 @@
+{
+  "pembayaran": [
+    {
+      "kode": 1,
+      "total_bayar": 2600000,
+      "total_uang": 3000000,
+      "total_kembali": 400000
+    },
+    {
+      "kode": 2,
+      "total_bayar": 1750000,
+      "total_uang": 1750000,
+      "total_kembali": 0
+    },
+    {
+      "kode": 3,
+      "total_bayar": 1100000,
+      "total_uang": 1200000,
+      "total_kembali": 100000
+    }
+  ]
+}

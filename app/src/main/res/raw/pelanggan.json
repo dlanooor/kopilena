@@ -1,0 +1,22 @@
+{
+  "pelanggan": [
+    {
+      "id": 1,
+      "nama": "Bociiillll",
+      "no_hp": "081133556655",
+      "no_antrian": 1
+    },
+    {
+      "id": 2,
+      "nama": "Maba",
+      "no_hp": "081455778899",
+      "no_antrian": 2
+    },
+    {
+      "id": 3,
+      "nama": "Bebek",
+      "no_hp": "086644995577",
+      "no_antrian": 3
+    }
+  ]
+}

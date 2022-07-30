@@ -1,0 +1,25 @@
+{
+  "pemesanan": [
+    {
+      "kode": 1,
+      "nama": "Americano",
+      "jenis": "Coffee",
+      "jumlah": 1,
+      "total": 23000
+    },
+    {
+      "kode": 2,
+      "nama": "Espresso",
+      "jenis": "Coffee",
+      "jumlah": 1,
+      "total": 22000
+    },
+    {
+      "kode": 3,
+      "nama": "Arabica",
+      "jenis": "Coffee",
+      "jumlah": 1,
+      "total": 23000
+    }
+  ]
+}

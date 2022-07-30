@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kopi Lena</string>
+    <string name="data_stok_barang">Data Stok Barang</string>
+    <string name="data_pelanggan">Data Pelanggan</string>
+    <string name="data_pemesanan">Data Pemesanan</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="hint">Username = admin\nPassword = admin</string>
+    <string name="add_pelanggan">Add Pelanggan</string>
+    <string name="nama">Nama\t\t\t\t\t\t\t: Admin</string>
+    <string name="no_hp">No.HP\t\t\t\t\t\t\t: 081266451456</string>
+    <string name="add_barang">Add Barang</string>
+    <string name="kode_barang">1</string>
+    <string name="marawis">Marawis</string>
+    <string name="data_pembayaran">Data Pembayaran</string>
+    <string name="add_pemesanan">Add Pemesanan</string>
+    <string name="marawis_polos">Marawis Polos</string>
+    <string name="delete">Delete</string>
+</resources>
